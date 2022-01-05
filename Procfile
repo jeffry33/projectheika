@@ -1,1 +1,1 @@
-web: bokeh serve — my_app.py
+web: bokeh serve -- my_app.py
